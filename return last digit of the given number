@@ -6,6 +6,7 @@ class UserMainCode
 {  
    public int lastDigitOf(int input1){  
        // Read only region end 
+       // Write code here...
        if(input1<0)     
        input1=(-1)*input1;      
        return input1%10;
